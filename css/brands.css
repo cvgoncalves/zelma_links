@@ -703,7 +703,7 @@ button:hover,
 
 /* VRChat */
 .button.button-vrchat {
-  color: #000000;
+  color: #131644;
   background-color: #ffffff;
   border: 2px solid black;
 }
@@ -715,7 +715,7 @@ button:hover,
 /* Website */
 .button.button-web {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #101431;
 }
 .button.button-web:hover,
 .button.button-web:focus {
